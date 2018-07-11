@@ -14,8 +14,5 @@ elsif n % 3 == 0
   return "Buzz"
 
 
-else
-  puts "nil"
-
   end
 end
