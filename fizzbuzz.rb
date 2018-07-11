@@ -13,8 +13,8 @@ def fizzbuzz(n)
 elsif n % 5 == 0
   return "Buzz"
 
-elsif n % 3  && n % 5 == 0
-  return "FizzBuzz"
+elsif n % 3 && n % 5 == 0
+  puts "FizzBuzz"
 
 else
   puts "nil"
