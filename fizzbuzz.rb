@@ -3,5 +3,5 @@
 
 def fizzbuzz(n)
   if n % 3 == "Fizz"
-  "Fizz"
+  
 end
