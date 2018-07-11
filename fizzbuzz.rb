@@ -13,7 +13,7 @@ def fizzbuzz(n)
 elsif n % 5 == 0
   return "Buzz"
 
-elsif n % 15 == 0 
+elsif n % 3 == 0 and n % 5 == 0
   return "FizzBuzz"
 
 else
