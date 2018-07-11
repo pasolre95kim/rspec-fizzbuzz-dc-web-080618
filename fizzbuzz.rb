@@ -2,4 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(n)
-  n % 3 ==
+  n % 3 == 0 &&
+  "Fizz"
+
+  if 
