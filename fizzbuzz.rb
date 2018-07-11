@@ -14,7 +14,7 @@ elsif n % 5 == 0
   return "Buzz"
 
 elsif (n % 3 == 0) && (n % 5 == 0)
-  puts "FizzBuzz"
+  return "FizzBuzz"
 
 else
   puts "nil"
